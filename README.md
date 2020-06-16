@@ -4,4 +4,4 @@
 
 # 执行方法
 
-进入目录下，输入sudo ./install.sh,等待
+进入目录下，输入sudo ./ubuntu1804.sh,等待
